@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seba-orellana&label=Profile%20views&color=0e75b6&style=flat" alt="seba-orellana" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **CI/CD Pipelines and Cloud Storage (AWS)**
 
 - 📫 How to reach me **sebaorellana16@gmail.com**
 
